@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=bb\ link
+comment0.target=BorrowedBookNode(BorrowedBook,\ BorrowedBookNode)
+comment0.text=\r\n\ Parameterized\ constructor\ 1\r\n
+comment1.params=
+comment1.target=BorrowedBookNode\ getLink()
+comment1.text=\r\n\ getter\ setter\ methods\r\n
+comment2.params=
+comment2.target=BorrowedBook\ getData()
+comment3.params=link
+comment3.target=void\ setLink(BorrowedBookNode)
+comment4.params=bb
+comment4.target=void\ setData(BorrowedBook)
+numComments=5

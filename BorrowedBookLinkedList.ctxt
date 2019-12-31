@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BorrowedBookLinkedList()
+comment1.params=bb
+comment1.target=void\ insert(BorrowedBook)
+comment1.text=\r\n\ Adds\ books\ to\ the\ LinkedLIst\ 'BorrowedBookLinkedList'\r\n
+comment2.params=bookName
+comment2.target=void\ delete(java.lang.String)
+comment2.text=\r\n\ Deletes\ books\ from\ the\ LinkedLIst\ 'BorrowedBookLinkedList'\r\n
+comment3.params=
+comment3.target=void\ printAllBorowedBooks()
+comment3.text=\r\n\ Prints\ the\ all\ Borrowed\ Books\ from\ the\ Linked\ List\r\n
+comment4.params=bookName\ num
+comment4.target=BorrowedBook\ findBorrowedBook(java.lang.String,\ int)
+comment4.text=\r\n\ Finds\ the\ index\ of\ the\ borrowed\ book\ using\ Book\ name\r\n
+comment5.params=pw
+comment5.target=void\ storeAllBorrowedBooks(java.io.PrintWriter)
+comment5.text=\r\n\ Stores\ the\ Borrowed\ Books\ in\ the\ array\ borrowedBooks[]\r\n
+numComments=6

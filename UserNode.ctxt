@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=u\ link
+comment0.target=UserNode(User,\ UserNode)
+comment0.text=\r\n\ Parameterized\ constructor\ 1\r\n
+comment1.params=
+comment1.target=UserNode\ getLink()
+comment1.text=\r\n\ getter\ setter\ methods\r\n
+comment2.params=
+comment2.target=User\ getData()
+comment3.params=
+comment3.target=int\ getUserId()
+comment4.params=link
+comment4.target=void\ setLink(UserNode)
+comment5.params=u
+comment5.target=void\ setData(User)
+comment6.params=
+comment6.target=void\ printUserNode()
+comment6.text=\r\n\ prints\ details\ of\ the\ Node\r\n
+numComments=7
